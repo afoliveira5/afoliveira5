@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm **Aparecido Ferreira de Oliveira**
-My name is Aparecido Ferreira de Oliveira. I hold a degree in **Computer Engineering** from **Centro Universitário FIEO (UNIFIEO)** and have been working in **Quality Assurance for nearly 11 years**, gaining experience in large-scale projects and corporate environments.
+I hold a degree in **Computer Engineering** from **Centro Universitário FIEO (UNIFIEO)** and have been working in **Quality Assurance for nearly 11 years**, gaining experience in large-scale projects and corporate environments.
 
 I’m passionate about building **reliable automation solutions**, strengthening quality from the earliest stages of development (**Shift Left**), and delivering robust systems that make a real difference in business outcomes and user experience.
 
