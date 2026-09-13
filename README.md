@@ -4,16 +4,17 @@ I hold a degree in **Computer Engineering** from **Centro Universitário FIEO (U
 I’m passionate about building **reliable automation solutions**, strengthening quality from the earliest stages of development (**Shift Left**), and delivering robust systems that make a real difference in business outcomes and user experience.
 
 ### 🌟 About Me
-I possess comprehensive experience in:
+I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
+
+#### Type of Test
+I have comprehensive experience in:
 
 - **Manual exploratory testing**
 - **Web and Mobile test automation**
 - **REST API testing**
 - **Test strategies based on the Test Pyramid**
 
-My work spans the **entire lifecycle** — from planning and scenario definition to execution, automation, failure analysis, and result validation.
-
-I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
+My work spans the **entire lifecycle** — from **planning** and **scenario definition** to **execution**, **automation**, **failure analysis**, and **result validation**.
 
 #### Technical Stack:
 - **Languages:** `Java` · `JavaScript` · `TypeScript` · `Python` · `Ruby`
@@ -27,16 +28,6 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
 - **Analytics Test:** `Firebase` · `Mixpanel`
 - **Methodologies:** **Scrum** · **Kanban**
 
-#### Type of Test
-  I have comprehensive experience in: 
-  - manual exploratory testing. 
-  - Web and Mobile test automation, 
-  - REST API testing,
-  - nd structuring test strategies based on the Test Pyramid. -
-  - My work spans the entire lifecycle—from planning and scenario definition to execution,
-  - automation, failure analysis, and result validation.
-
-
 #### Key Strengths:
 - **Test automation**
 - **Shift Left** quality practices (integrating quality from the earliest development stages)
@@ -44,7 +35,7 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
 - **Failure analysis** and **business rule validation**
 - Evolution of **automation strategies**. I consistently aim to enhance **system reliability** and the **efficiency of quality processes**.
 
-- #### Previous Roles:
+#### Previous Roles:
 I have built my professional experience at major consultancies and technology firms:
 
 - **Stefanini**
@@ -63,5 +54,4 @@ Sincerely,
 **Aparecido Ferreira de Oliveira**
 
 🔗 LinkedIn: [https://www.linkedin.com/in/aparecido-oliveira/](https://www.linkedin.com/in/aparecido-oliveira/)
-
 💻 GitHub: [https://github.com/afoliveira5](https://github.com/afoliveira5)
