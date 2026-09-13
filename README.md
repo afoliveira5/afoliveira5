@@ -29,10 +29,12 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
 
 #### Type of Test
  I have comprehensive experience in: 
- - manual exploratory testing. 
+ - manual exploratory testing.
+ - regression test
+ - Smoke Test
  - Web and Mobile test automation, 
  - REST API testing,
- - nd structuring test strategies based on the Test Pyramid. -
+ - structuring test strategies based on the Test Pyramid.
  - My work spans the entire lifecycle—from planning and scenario definition to execution,
  - automation, failure analysis, and result validation.
 
