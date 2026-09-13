@@ -2,11 +2,17 @@
 My name is Aparecido Ferreira de Oliveira. I hold a degree in **Computer Engineering** from **Centro Universitário FIEO (UNIFIEO)** and have been working in **Quality Assurance for nearly 11 years**, gaining experience in large-scale projects and corporate environments.
 
 
+
+
 I’m passionate about building **reliable automation solutions**, strengthening quality from the earliest stages of development (**Shift Left**), and delivering robust systems that make a real difference in business outcomes and user experience.
+
+
 
 
 ### 🌟 About Me
 I possess comprehensive experience in:
+
+
 
 
 - **Manual exploratory testing**
@@ -15,14 +21,22 @@ I possess comprehensive experience in:
 - **Test strategies based on the Test Pyramid**
 
 
+
+
 My work spans the **entire lifecycle** — from planning and scenario definition to execution, automation, failure analysis, and result validation.
+
+
 
 
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
 
+
+
 #### Previous Roles:
 I have built my professional experience at major consultancies and technology firms:
+
+
 
 
 - **Stefanini**
@@ -31,7 +45,11 @@ I have built my professional experience at major consultancies and technology fi
 - **South System**
 
 
+
+
 Working in multidisciplinary environments and collaborating closely with **Development**, **Product**, **Architecture**, and other business teams.
+
+
 
 
 #### Technical Stack:
@@ -41,8 +59,12 @@ Working in multidisciplinary environments and collaborating closely with **Devel
 - **API Testing:** `Postman` · `Newman` · `Cypress` · `Playwright`
 - **Test Management:** `Xray` · `Octane` · `Zephyr`
 - **DevOps and Tools:** `AWS` · `Azure DevOps` · `GitHub` · `Bitbucket`
-- **Cloud and Observability:** `AWS CloudWatch` · `DynamoDB`
+- **Cloud and Observability:** `AWS CloudWatch` · `DynamoDB` · `Mixpanel`
+- **Web and Mobile test automation**
+- **Analytics Test:** `Firebase` · `Mixpanel`
 - **Methodologies:** **Scrum** · **Kanban**
+
+
 
 
 #### Key Strengths:
@@ -50,12 +72,3 @@ Working in multidisciplinary environments and collaborating closely with **Devel
 - **Shift Left** quality practices (integrating quality from the earliest development stages)
 - **API testing** and **system integration**
 - **Failure analysis** and **business rule validation**
-- Evolution of **automation strategies**
-
-
-I consistently aim to enhance **system reliability** and the **efficiency of quality processes**.
-
-
-🔗 LinkedIn: [**aparecido-oliveira**](https://www.linkedin.com/in/aparecido-oliveira/)
-💻 GitHub: [**afoliveira5**](https://github.com/afoliveira5)
-
