@@ -53,4 +53,5 @@ Sincerely,
 **Aparecido Ferreira de Oliveira**
 
 🔗 LinkedIn: [https://www.linkedin.com/in/aparecido-oliveira/](https://www.linkedin.com/in/aparecido-oliveira/)
+
 💻 GitHub: [https://github.com/afoliveira5](https://github.com/afoliveira5)
