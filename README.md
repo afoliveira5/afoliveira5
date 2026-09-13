@@ -27,6 +27,14 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
 - **Analytics Test:** `Firebase` · `Mixpanel`
 - **Methodologies:** **Scrum** · **Kanban**
 
+#### Type Test
+  I have comprehensive experience in manual exploratory testing, 
+  Web and Mobile test automation, 
+  REST API testing, a
+  nd structuring test strategies based on the Test Pyramid. 
+  My work spans the entire lifecycle—from planning and scenario definition to execution, automation, failure analysis, and result validation.
+
+
 #### Key Strengths:
 - **Test automation**
 - **Shift Left** quality practices (integrating quality from the earliest development stages)
