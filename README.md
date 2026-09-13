@@ -15,16 +15,6 @@ My work spans the **entire lifecycle** — from planning and scenario definition
 
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
-#### Previous Roles:
-I have built my professional experience at major consultancies and technology firms:
-
-- **Stefanini**
-- **Accenture**
-- **CI&T**
-- **South System**
-
-Working in multidisciplinary environments and collaborating closely with **Development**, **Product**, **Architecture**, and other business teams.
-
 #### Technical Stack:
 - **Languages:** `Java` · `JavaScript` · `TypeScript` · `Python` · `Ruby`
 - **Web Automation:** `Cypress` · `Playwright` · `Selenium WebDriver` · **BDD** · **Gherkin**
@@ -43,6 +33,16 @@ Working in multidisciplinary environments and collaborating closely with **Devel
 - **API testing** and **system integration**
 - **Failure analysis** and **business rule validation**
 - Evolution of **automation strategies**. I consistently aim to enhance **system reliability** and the **efficiency of quality processes**.
+
+- #### Previous Roles:
+I have built my professional experience at major consultancies and technology firms:
+
+- **Stefanini**
+- **Accenture**
+- **CI&T**
+- **South System**
+
+Working in multidisciplinary environments and collaborating closely with **Development**, **Product**, **Architecture**, and other business teams.
 
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
