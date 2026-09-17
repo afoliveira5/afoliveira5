@@ -14,10 +14,10 @@ I possess comprehensive experience in:
 ---
 
 My work spans the **entire lifecycle of testing.** 
-- From planning and scenario definition 
-- Execution of automation os testing,
-- Failure analysis
-- And result validation.
+- From planning and Scenario Definition 
+- Execution of Automation os Testing,
+- Failure Analysis
+- And Result Validation.
 
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
@@ -78,14 +78,14 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
 ---
 #### Type of Test
  I have comprehensive experience in: 
- - ** Manual exploratory testing; **
- - ** Regression test; **
+ - ** Manual Exploratory Testing; **
+ - ** Regression Test; **
  - ** Smoke Test; ** 
- - ** Web and Mobile test automation;** 
- - ** REST API testing;**
- - ** Structuring test strategies based on the Test Pyramid;**
- - ** My work spans the entire lifecycle—from planning and scenario definition to execution;**
- - ** Automation, failure analysis, and result validation.**
+ - ** Web and Mobile Test Automation;** 
+ - ** REST API Testing;**
+ - ** Structuring Test Strategies Based On The Test Pyramid;**
+ - ** My work spans the entire Lifecycle—From Planning and Scenario Definition to Execution;**
+ - ** Automation, Failure Analysis, and Result Validation.**
 ---
 
 #### Key Strengths:
