@@ -92,7 +92,7 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
 - Evolution of **automation strategies**. I consistently aim to enhance **system reliability** and the **efficiency of quality processes**.
 
 ---
----
+
 - #### Previous Roles:
 I have built my professional experience at major consultancies and technology firms:
 
