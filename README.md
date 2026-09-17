@@ -93,6 +93,7 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
 - **Shift Left** quality practices (integrating quality from the earliest development stages)
 - **API testing** and **system integration**
 - **Failure analysis** and **business rule validation**
+  
 Evolution of **automation strategies**. I consistently aim to enhance **system reliability** and the **efficiency of quality processes**.
 
 ---
