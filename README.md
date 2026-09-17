@@ -1,13 +1,13 @@
 # 👋 Hi! I'm **Aparecido Ferreira de Oliveira**
 
-
 ### 🌟 About Me
 I hold a degree in **Computer Engineering** from **Centro Universitário FIEO (UNIFIEO)** and have been working in **Quality Assurance for nearly 11 years**, gaining experience in large-scale projects and corporate environments.
 
 I’m passionate about building **reliable automation solutions**, strengthening quality from the earliest stages of development (**Shift Left**), and delivering robust systems that make a real difference in business outcomes and user experience.
 
 ---
-### I have extensive QA experience across various types of testing: ##
+
+### I have extensive QA experience across various types of testing:
 
 - **Structuring test strategies based on the Test Pyramid**
 - **Manual Exploratory Testing**
@@ -16,16 +16,15 @@ I’m passionate about building **reliable automation solutions**, strengthening
 - **Web and Mobile Test Automation**
 - **REST API Testing**
 
----
+### My work spans the entire lifecycle of testing:
 
-### My work spans the **entire lifecycle of testing.** 
-- **From planning and Scenario Definition;** 
-- **Execution of Automation os Testing;**
-- **Failure Analysis;**
-- **And Result Validation.**
-
+- **Planning and scenario definition**
+- **Execution of test automation**
+- **Failure analysis**
+- **Result validation**
 
 ---
+
 ### Technical Stack:
 
 - **Languages:**  
@@ -74,24 +73,21 @@ I’m passionate about building **reliable automation solutions**, strengthening
 - **Analytics Test:**  
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge" alt="Mixpanel">
-  
+
 - **Methodologies:**  
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" alt="Scrum">
   <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" alt="Kanban">
 
 ---
 
-#### Key Strengths:
-- **Test automation**
+### Key Strengths:
 - **Shift Left** quality practices (integrating quality from the earliest development stages)
-- **API testing** and **system integration**
-- **Failure analysis** and **business rule validation**
-  
-Evolution of **automation strategies**. I consistently aim to enhance **system reliability** and the **efficiency of quality processes**.
+- **System integration** and **business rule validation**
+- Evolution of **automation strategies**, with focus on **system reliability** and the **efficiency of quality processes**
 
 ---
 
-- #### Previous Roles:
+### Previous Roles:
 I have built my professional experience at major consultancies and technology firms:
 
 - **Stefanini**
@@ -99,26 +95,17 @@ I have built my professional experience at major consultancies and technology fi
 - **CI&T**
 - **South System**
 
----
 Working in multidisciplinary environments and collaborating closely with **Development**, **Product**, **Architecture**, and other business teams.
 
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
-My resume provides further details regarding my professional background and project experience. I am available to discuss this further and to participate in the next stages of the selection process.
-
-Sincerely,
-
-
 ---
-
-**Aparecido Ferreira de Oliveira**
 
 <details open>
 <summary>contatos 👇</summary>
 <br>
 
-<a href="https://www.linkedin.com/in/aparecido-oliveira/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>               <a href="https://github.com/afoliveira5"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/aparecido-oliveira/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/afoliveira5"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </details>
-
----
