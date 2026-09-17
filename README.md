@@ -8,12 +8,17 @@ I hold a degree in **Computer of Engineering** from **Centro Universitário FIEO
 I’m passionate about building **reliable automation solutions**, strengthening quality from the earliest stages of development (**Shift Left**), and delivering robust systems that make a real difference in business outcomes and user experience.
 
 ---
-I possess comprehensive experience in:
+I possess comprehensive experience in Type of Test:
 
-- **Manual exploratory testing;**
-- **Web and Mobile test automation;**
-- **REST API testing;**
 - **Test strategies based on the Test Pyramid.**
+- **Manual Exploratory Testing;**
+- **Regression Test;**
+- **Smoke Test;** 
+- **Web and Mobile Test Automation;** 
+- **REST API Testing;**
+- **Structuring Test Strategies Based On The Test Pyramid;**
+- **My work spans the entire Lifecycle—From Planning and Scenario Definition to Execution;**
+- **Automation, Failure Analysis, and Result Validation.**
 ---
 
 My work spans the **entire lifecycle of testing.** 
@@ -78,17 +83,6 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" alt="Scrum">
   <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" alt="Kanban">
 
----
-#### Type of Test
- I have comprehensive experience in: 
- - **Manual Exploratory Testing;**
- - **Regression Test;**
- - **Smoke Test;** 
- - **Web and Mobile Test Automation;** 
- - **REST API Testing;**
- - **Structuring Test Strategies Based On The Test Pyramid;**
- - **My work spans the entire Lifecycle—From Planning and Scenario Definition to Execution;**
- - **Automation, Failure Analysis, and Result Validation.**
 ---
 
 #### Key Strengths:
