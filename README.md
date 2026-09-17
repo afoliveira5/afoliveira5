@@ -9,13 +9,13 @@ I’m passionate about building **reliable automation solutions**, strengthening
 ---
 ### I have extensive QA experience across various types of testing: ##
 
-- **Test strategies based on the Test Pyramid.**
+- ****Structuring Test strategies based on the Test Pyramid.**
 - **Manual Exploratory Testing;**
 - **Regression Test;**
 - **Smoke Test;** 
 - **Web and Mobile Test Automation;** 
 - **REST API Testing;**
-- **Structuring Test Strategies Based On The Test Pyramid;**
+
 - **My work spans the entire Lifecycle—From Planning and Scenario Definition to Execution;**
 - **Automation, Failure Analysis, and Result Validation.**
 ---
