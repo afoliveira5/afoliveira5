@@ -2,22 +2,20 @@
 
 
 ### 🌟 About Me
-I hold a degree in **Computer of Engineering** from **Centro Universitário FIEO (UNIFIEO)** and have been working in **Quality Assurance for nearly 11 years**, gaining experience in large-scale projects and corporate environments.
+I hold a degree in **Computer Engineering** from **Centro Universitário FIEO (UNIFIEO)** and have been working in **Quality Assurance for nearly 11 years**, gaining experience in large-scale projects and corporate environments.
 
 I’m passionate about building **reliable automation solutions**, strengthening quality from the earliest stages of development (**Shift Left**), and delivering robust systems that make a real difference in business outcomes and user experience.
 
 ---
 ### I have extensive QA experience across various types of testing: ##
 
-- ****Structuring Test strategies based on the Test Pyramid.**
-- **Manual Exploratory Testing;**
-- **Regression Test;**
-- **Smoke Test;** 
-- **Web and Mobile Test Automation;** 
-- **REST API Testing;**
+- **Structuring test strategies based on the Test Pyramid**
+- **Manual Exploratory Testing**
+- **Regression Test**
+- **Smoke Test**
+- **Web and Mobile Test Automation**
+- **REST API Testing**
 
-- **My work spans the entire Lifecycle—From Planning and Scenario Definition to Execution;**
-- **Automation, Failure Analysis, and Result Validation.**
 ---
 
 ### My work spans the **entire lifecycle of testing.** 
@@ -26,7 +24,6 @@ I’m passionate about building **reliable automation solutions**, strengthening
 - **Failure Analysis;**
 - **And Result Validation.**
 
-I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
 ---
 ### Technical Stack:
