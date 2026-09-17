@@ -2,7 +2,6 @@
 # **Aparecido Ferreira de Oliveira**
 
 
----
 ### 🌟 About Me
 I hold a degree in **Computer of Engineering** from **Centro Universitário FIEO (UNIFIEO)** and have been working in **Quality Assurance for nearly 11 years**, gaining experience in large-scale projects and corporate environments.
 
