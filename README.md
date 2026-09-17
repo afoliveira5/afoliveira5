@@ -7,17 +7,17 @@ I’m passionate about building **reliable automation solutions**, strengthening
 ---
 I possess comprehensive experience in:
 
-- **Manual exploratory testing**.
-- **Web and Mobile test automation**.
-- **REST API testing**.
-- **Test strategies based on the Test Pyramid**.
+- **Manual exploratory testing;**
+- **Web and Mobile test automation;**
+- **REST API testing;**
+- **Test strategies based on the Test Pyramid.**
 ---
 
 My work spans the **entire lifecycle of testing.** 
-- From planning and Scenario Definition 
-- Execution of Automation os Testing,
-- Failure Analysis
-- And Result Validation.
+- ** From planning and Scenario Definition;** 
+- ** Execution of Automation os Testing;**
+- ** Failure Analysis;**
+- ** And Result Validation.**
 
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
