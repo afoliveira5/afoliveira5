@@ -82,7 +82,7 @@ I’m passionate about building **reliable automation solutions**, strengthening
 
 ### Key Strengths:
 - **System integration** and **business rule validation**
-- **Evolution of automation strategies**, focused on **system reliability** and the **efficiency of quality processes**
+- **System reliability** and **efficiency of quality processes**
 
 ---
 
@@ -96,7 +96,7 @@ I have built my professional experience at major consultancies and technology fi
 
 Working in multidisciplinary environments and collaborating closely with **Development**, **Product**, **Architecture**, and other business teams.
 
-I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
+Open to **Senior QA** and **QA Automation Engineer** opportunities.
 
 ---
 
