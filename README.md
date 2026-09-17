@@ -61,13 +61,10 @@ My resume provides further details regarding my professional background and proj
 
 Sincerely,
 
-**Aparecido Ferreira de Oliveira**
-
-🔗 LinkedIn: [https://www.linkedin.com/in/aparecido-oliveira/](https://www.linkedin.com/in/aparecido-oliveira/)
-
-💻 GitHub: [https://github.com/afoliveira5](https://github.com/afoliveira5)
 
 ---
+
+**Aparecido Ferreira de Oliveira**
 
 <details open>
 <summary>Entre em contato pelo 👇</summary>
