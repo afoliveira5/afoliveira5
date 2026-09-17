@@ -7,10 +7,10 @@ I’m passionate about building **reliable automation solutions**, strengthening
 ---
 I possess comprehensive experience in:
 
-- **Manual exploratory testing**
-- **Web and Mobile test automation**
-- **REST API testing**
-- **Test strategies based on the Test Pyramid**
+- **Manual exploratory testing**.
+- **Web and Mobile test automation**.
+- **REST API testing**.
+- **Test strategies based on the Test Pyramid**.
 ---
 
 My work spans the **entire lifecycle of testing.** 
