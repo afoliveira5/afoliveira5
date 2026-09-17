@@ -8,7 +8,7 @@ I hold a degree in **Computer of Engineering** from **Centro Universitário FIEO
 I’m passionate about building **reliable automation solutions**, strengthening quality from the earliest stages of development (**Shift Left**), and delivering robust systems that make a real difference in business outcomes and user experience.
 
 ---
-###I have extensive QA experience across various types of testing::
+### I have extensive QA experience across various types of testing::
 
 - **Test strategies based on the Test Pyramid.**
 - **Manual Exploratory Testing;**
@@ -21,7 +21,7 @@ I’m passionate about building **reliable automation solutions**, strengthening
 - **Automation, Failure Analysis, and Result Validation.**
 ---
 
-My work spans the **entire lifecycle of testing.** 
+### My work spans the **entire lifecycle of testing.** 
 - **From planning and Scenario Definition;** 
 - **Execution of Automation os Testing;**
 - **Failure Analysis;**
