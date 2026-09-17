@@ -72,7 +72,6 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
   <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" alt="Kanban">
 
 ---
----
 #### Type of Test
  I have comprehensive experience in: 
  - ** manual exploratory testing; **
@@ -84,7 +83,7 @@ I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engi
  - ** My work spans the entire lifecycle—from planning and scenario definition to execution;**
  - ** automation, failure analysis, and result validation.**
 ---
----
+
 #### Key Strengths:
 - **Test automation**
 - **Shift Left** quality practices (integrating quality from the earliest development stages)
@@ -103,7 +102,6 @@ I have built my professional experience at major consultancies and technology fi
 - **South System**
 
 ---
----
 Working in multidisciplinary environments and collaborating closely with **Development**, **Product**, **Architecture**, and other business teams.
 
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
@@ -114,7 +112,7 @@ Sincerely,
 
 
 ---
----
+
 **Aparecido Ferreira de Oliveira**
 
 <details open>
