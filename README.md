@@ -2,13 +2,13 @@
 # **Aparecido Ferreira de Oliveira**
 
 
-### 🌟 About Me
+## 🌟 About Me
 I hold a degree in **Computer of Engineering** from **Centro Universitário FIEO (UNIFIEO)** and have been working in **Quality Assurance for nearly 11 years**, gaining experience in large-scale projects and corporate environments.
 
 I’m passionate about building **reliable automation solutions**, strengthening quality from the earliest stages of development (**Shift Left**), and delivering robust systems that make a real difference in business outcomes and user experience.
 
 ---
-### I have extensive QA experience across various types of testing::
+## I have extensive QA experience across various types of testing::
 
 - **Test strategies based on the Test Pyramid.**
 - **Manual Exploratory Testing;**
@@ -21,7 +21,7 @@ I’m passionate about building **reliable automation solutions**, strengthening
 - **Automation, Failure Analysis, and Result Validation.**
 ---
 
-### My work spans the **entire lifecycle of testing.** 
+## My work spans the **entire lifecycle of testing.** 
 - **From planning and Scenario Definition;** 
 - **Execution of Automation os Testing;**
 - **Failure Analysis;**
@@ -30,7 +30,7 @@ I’m passionate about building **reliable automation solutions**, strengthening
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
 ---
-#### Technical Stack:
+## Technical Stack:
 
 - **Languages:**  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
