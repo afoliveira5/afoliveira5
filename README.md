@@ -67,11 +67,9 @@ Sincerely,
 **Aparecido Ferreira de Oliveira**
 
 <details open>
-<summary>Entre em contato pelo 👇</summary>
+<summary>contatos 👇</summary>
 <br>
 
-<a href="https://t.me/+5511984217886"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://wa.me/5511984217886"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://www.linkedin.com/in/aparecido-oliveira/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/afoliveira5"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
