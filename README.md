@@ -81,9 +81,8 @@ I’m passionate about building **reliable automation solutions**, strengthening
 ---
 
 ### Key Strengths:
-- **Shift Left** quality practices (integrating quality from the earliest development stages)
 - **System integration** and **business rule validation**
-- Evolution of **automation strategies**, with focus on **system reliability** and the **efficiency of quality processes**
+- **Evolution of automation strategies**, focused on **system reliability** and the **efficiency of quality processes**
 
 ---
 
