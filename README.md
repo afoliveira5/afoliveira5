@@ -16,16 +16,48 @@ My work spans the **entire lifecycle** — from planning and scenario definition
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
 #### Technical Stack:
-- **Languages:** `Java` · `JavaScript` · `TypeScript` · `Python` · `Ruby`
-- **Web Automation:** `Cypress` · `Playwright` · `Selenium WebDriver` · **BDD** · **Gherkin**
-- **Mobile Automation:** `Appium` · `Selenium` · `Robot Framework`
-- **API Testing:** `Postman` · `Newman` · `Cypress` · `Playwright`
-- **Test Management:** `Xray` · `Octane` · `Zephyr`
-- **DevOps and Tools:** `AWS` · `Azure DevOps` · `GitHub` · `Bitbucket`
-- **Cloud and Observability:** `AWS CloudWatch` · `DynamoDB` · `Mixpanel`
+- **Languages:**  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+- **Web Automation:**  
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium WebDriver">
+  <img src="https://img.shields.io/badge/BDD-23D96C?style=for-the-badge" alt="BDD">
+  <img src="https://img.shields.io/badge/Gherkin-00A86B?style=for-the-badge" alt="Gherkin">
+- **Mobile Automation:**  
+  <img src="https://img.shields.io/badge/Appium-EE3E26?style=for-the-badge" alt="Appium">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework">
+- **API Testing:**  
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Newman">
+  <img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge" alt="REST Assured">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+- **Test Management:**  
+  <img src="https://img.shields.io/badge/Xray-0052CC?style=for-the-badge" alt="Xray">
+  <img src="https://img.shields.io/badge/Octane-00C389?style=for-the-badge" alt="Octane">
+  <img src="https://img.shields.io/badge/Zephyr-2684FF?style=for-the-badge" alt="Zephyr">
+- **DevOps and Tools:**  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+- **Cloud and Observability:**  
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="AWS CloudWatch">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB">
+  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge" alt="Mixpanel">
 - **Web and Mobile test automation**
-- **Analytics Test:** `Firebase` · `Mixpanel`
-- **Methodologies:** **Scrum** · **Kanban**
+- **Analytics Test:**  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge" alt="Mixpanel">
+- **Methodologies:**  
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" alt="Scrum">
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" alt="Kanban">
 
 #### Type of Test
  I have comprehensive experience in: 
