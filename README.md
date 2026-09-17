@@ -13,11 +13,11 @@ I possess comprehensive experience in:
 - **Test strategies based on the Test Pyramid**
 ---
 
-My work spans the **entire lifecycle of testing** 
-- from planning and scenario definition 
-- execution of automation os testing,
-- failure analysis
-- and result validation.
+My work spans the **entire lifecycle of testing.** 
+- From planning and scenario definition 
+- Execution of automation os testing,
+- Failure analysis
+- And result validation.
 
 I am eager to contribute my expertise to a **Senior QA** or **QA Automation Engineer** role, bringing technical knowledge, a quality-focused mindset, and experience in building and evolving automation solutions.
 
